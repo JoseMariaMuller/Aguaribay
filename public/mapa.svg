@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#e0e2d7"/>
+  <g fill="none" stroke="#b9b8a8" stroke-width="1.5">
+    <path d="M820 120c90-40 210-10 250 70s-20 170-120 190-200-20-230-90 10-140 100-170z"/>
+    <path d="M800 90c120-60 280-20 320 90s-30 220-160 250-270-30-300-120 20-170 140-220z"/>
+    <path d="M770 60c150-80 350-30 400 110s-40 280-200 310-330-30-370-150 20-200 170-270z"/>
+    <path d="M860 160c50-20 120 0 140 45s-10 95-70 105-110-10-125-50 10-80 55-100z"/>
+    <path d="M150 520c70-50 190-40 230 20s0 130-90 140-170-20-180-80 0-50 40-80z"/>
+    <path d="M110 500c100-80 260-70 320 20s0 190-130 200-240-30-250-110 10-70 60-110z"/>
+    <path d="M60 470c130-110 330-100 410 20s0 260-170 270-300-40-320-140 20-90 80-150z"/>
+  </g>
+  <path d="M0 410C200 380 330 300 480 320s260 120 420 80 220-70 300-60" fill="none" stroke="#ecede6" stroke-width="18"/>
+  <path d="M0 410C200 380 330 300 480 320s260 120 420 80 220-70 300-60" fill="none" stroke="#cfcbbf" stroke-width="2"/>
+  <path d="M600 0c-20 120 30 230 10 340s-60 220-40 360" fill="none" stroke="#ecede6" stroke-width="12"/>
+  <path d="M600 0c-20 120 30 230 10 340s-60 220-40 360" fill="none" stroke="#cfcbbf" stroke-width="2"/>
+  <path d="M0 640c160-30 300-10 420 10" fill="none" stroke="#9fb2a8" stroke-width="6" opacity=".7"/>
+  <text x="940" y="230" font-family="Georgia, serif" font-style="italic" font-size="26" fill="#535d47">Cerro Uritorco</text>
+  <text x="170" y="600" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#535d47">Los Mogotes</text>
+  <g transform="translate(605 360)">
+    <circle r="46" fill="#a8323f" opacity=".14"/>
+    <path d="M0 0c-16-22-24-36-24-48a24 24 0 0 1 48 0c0 12-8 26-24 48z" fill="#a8323f"/>
+    <circle cy="-48" r="8" fill="#ecede6"/>
+  </g>
+</svg>
